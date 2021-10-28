@@ -1,0 +1,22 @@
+{
+  "name": "awsesbulk",
+  "version": "1.0.0",
+  "description": "Bulk indexing command line tool for AWS ElasticSearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "~7.13.0",
+    "aws-elasticsearch-js": "^1.0.3",
+    "commander": "^8.3.0",
+    "csv-parse": "^4.16.3",
+    "split2": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/commander": "^2.12.2",
+    "jest": "^27.3.1"
+  }
+}
