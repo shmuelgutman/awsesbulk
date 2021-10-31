@@ -15,7 +15,8 @@
     "aws-elasticsearch-js": "^1.0.3",
     "commander": "^8.3.0",
     "csv-parse": "^4.16.3",
-    "split2": "^4.1.0"
+    "split2": "^4.1.0",
+    "throttle": "^1.0.3"
   },
   "devDependencies": {
     "@types/commander": "^2.12.2",
