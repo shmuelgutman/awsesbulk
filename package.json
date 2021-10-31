@@ -1,6 +1,6 @@
 {
   "name": "awsesbulk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bulk indexing command line tool for AWS ElasticSearch",
   "bin": {
     "awsesbulk": "bin/awsesbulk.js"
